@@ -99,7 +99,7 @@ namespace tema1_NrComplexe
         }
 
 
-        // TODO 
+        // TODO DONE
         public double Real
         {
             get

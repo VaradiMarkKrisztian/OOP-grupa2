@@ -28,6 +28,7 @@ namespace tema1_NrComplexe
 
             // TODO: supraincarcarea operatorilor aritmetici pentru tipul Complex
             //complex suma =c1+c2;
+            //DONE
              Complex adunare = c1 + c2;
             Console.WriteLine($"Suma lui {c1} si {c2} este {adunare}");
             Complex scadere = c1 - c2;
